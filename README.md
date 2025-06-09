@@ -25,7 +25,7 @@ The data comes from an airway epithelial cell experiment, where RNA-seq was used
   - Dispersion estimates
   - PCA plot of sample distances
   - Top differentially expressed genes (adjusted p-values)
-  - Volcano plots (optional)
+  - Volcano plot
 
 ## 🛠️ Tools & Libraries
 
